@@ -5,10 +5,10 @@ To implement the understanding of Neural Networks for binary class classificatio
 Methodology: Using the file Final Project.pdf, we thoroughly understood the instructions on how to do the assignment and understand the concepts related to neural networks in a more efficient manner.
 
 Data Files: 
-lab3cardata.mat is the file which provides us data set which consists of 6 features to identify the acceptable rating of car to mark it out if it is ‘fit to drive’ or not. 
+lab3cardata.mat is the file which provides us data set which consists of 6 features to identify the acceptable rating of car to mark it out if it is ‘fit to drive’ or not.
 
 Program Files: 
-*sigmoid.m* is used to calculate the sigmoid of all elements inserted in the input array. 
+*sigmoid.m* is used to calculate the sigmoid of all elements inserted in the input array.
 
 *dsigmoid.m* calculates the derivative of each of the sigmoid function values to go in the array. 
 
