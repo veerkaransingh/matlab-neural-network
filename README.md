@@ -20,7 +20,7 @@ Program Files:
 
 *part3.m* is used to recalculate the results of part 1 with the use of Support Vector Machines (SVMs) to solve the XOR problem. 
 
-*part4.m recalculates the results of part 2 using SVMs to solve the car acceptability. 
+*part4.m* recalculates the results of part 2 using SVMs to solve the car acceptability. 
 
 plot_XOR_and_regions.m is used to plot the XOR graph and plotting the decision boundaries for each class with the provided matrices. 
 
