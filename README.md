@@ -1,6 +1,6 @@
 **Neural Networks**
 
-Objective: 
+**Objective**: 
 To implement the understanding of Neural Networks for binary class classification and multi-class classification and experimenting with different number of neurons in the hidden layer and understand its effects. 
 Methodology: Using the file Final Project.pdf, we thoroughly understood the instructions on how to do the assignment and understand the concepts related to neural networks in a more efficient manner.
 
