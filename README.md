@@ -22,7 +22,7 @@ Program Files:
 
 *part4.m* recalculates the results of part 2 using SVMs to solve the car acceptability. 
 
-plot_XOR_and_regions.m is used to plot the XOR graph and plotting the decision boundaries for each class with the provided matrices. 
+*plot_XOR_and_regions.m* is used to plot the XOR graph and plotting the decision boundaries for each class with the provided matrices. 
 
 fmincg.m is used to calculate the minimum of a cost function using the conjugate gradient method to calculate the minimum. 
 
