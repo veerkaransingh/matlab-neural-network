@@ -1,4 +1,4 @@
-**---Neural Networks**
+**---Neural Networks---**
 
 **Objective**: 
 To implement the understanding of Neural Networks for binary class classification and multi-class classification and experimenting with different number of neurons in the hidden layer and understand its effects. 
