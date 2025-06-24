@@ -33,15 +33,20 @@ Outputs:
 
 *Figure 1*: Displays the learning using neural networks 
 
+
 ![image](https://github.com/user-attachments/assets/9e6d0bb1-f017-48b9-bbe5-d5d1298321ff)
 
 *Figure 2*: Creating the prediction model and calculating its accuracy 
 
+
+
 ![image](https://github.com/user-attachments/assets/d14835ea-950d-4806-81e4-3b7f40b1cae7)
+
 *Figure 3*: Drawing the SVM decision boundary for XOR graph
 
+
 ![image](https://github.com/user-attachments/assets/97197505-95c4-43f1-a8f0-2775b5ed982e)
-Figure 4: Creating the prediction model and calculating its accuracy using SVM 
+*Figure 4*: Creating the prediction model and calculating its accuracy using SVM 
 
 **Conclusion**: 
 This assignment provided us a clear understanding of neural networks. We plotted a graph and drew a decision boundary to signify different classes. We used sigmoid and dsigmoid to calculate the g(z) and the derivative of g(z) respectively. In addition, we made predication and calculated its accuracy.  
