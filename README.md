@@ -30,7 +30,7 @@ Outputs:
 
 
 ![image](https://github.com/user-attachments/assets/ae31c3de-ada9-4c41-8d7f-9652ae1231d6)
-Figure 1: Displays the learning using neural networks 
+*Figure 1*: Displays the learning using neural networks 
 
 ![image](https://github.com/user-attachments/assets/9e6d0bb1-f017-48b9-bbe5-d5d1298321ff)
 Figure 2: Creating the prediction model and calculating its accuracy 
