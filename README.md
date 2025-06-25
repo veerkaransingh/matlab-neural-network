@@ -46,6 +46,7 @@ Outputs:-
 
 
 ![image](https://github.com/user-attachments/assets/97197505-95c4-43f1-a8f0-2775b5ed982e)
+
 *Figure 4*: Creating the prediction model and calculating its accuracy using SVM 
 
 **Conclusion**: 
