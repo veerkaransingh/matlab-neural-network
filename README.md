@@ -49,6 +49,7 @@ Outputs:
 *Figure 4*: Creating the prediction model and calculating its accuracy using SVM 
 
 **Conclusion**: 
+
 This assignment provided us a clear understanding of neural networks. We plotted a graph and drew a decision boundary to signify different classes. We used sigmoid and dsigmoid to calculate the g(z) and the derivative of g(z) respectively. In addition, we made predication and calculated its accuracy...  
 
 
