@@ -26,7 +26,7 @@ lab3cardata.mat is the file which provides us data set which consists of 6 featu
 
 *fmincg.m* is used to calculate the minimum of a cost function using the conjugate gradient method to calculate the minimum. 
  
-Outputs:-
+**Outputs**:-
 
 
 ![image](https://github.com/user-attachments/assets/ae31c3de-ada9-4c41-8d7f-9652ae1231d6)
