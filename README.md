@@ -16,7 +16,7 @@ lab3cardata.mat is the file which provides us data set which consists of 6 featu
 
 *predict_class.m* is used to predict the class of the input dataset corresponding to the nearest weights. part1.m is used to solve the XOR problem with Gradient Descent using neural networks. 
 
-*costFunction_NN_reg.m* is used to calculates the accuracy of the outputs predicted where it returns the gradients of the weights and performs regularization on the dataset. It calculates the cost to use those weights in neural network as well as the gradient vector where each weight has its error gradient evaluated at these current weights.  part2.m is used to predict the optimal car acceptability using the training dataset. 
+*costFunction_NN_reg.m* is used to calculates the accuracy of the outputs predicted where it returns the gradients of the weights and performs regularization on the dataset. It calculates the cost to use those weights in neural network as well as the gradient vector where each weight has its error gradient evaluated at these current weights.  part2.m is used to predict the optimal car acceptability using the training dataset. ..
 
 *part3.m* is used to recalculate the results of part 1 with the use of Support Vector Machines (SVMs) to solve the XOR problem. 
 
