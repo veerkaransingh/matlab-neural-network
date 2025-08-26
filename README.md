@@ -42,7 +42,7 @@ lab3cardata.mat is the file which provides us data set which consists of 6 featu
 
 ![image](https://github.com/user-attachments/assets/d14835ea-950d-4806-81e4-3b7f40b1cae7)
 
-*Figure 3*: Drawing the SVM decision boundary for XOR graph
+*Figure 3*: Drawing the SVM decision boundary for XOR graph.
 
 
 ![image](https://github.com/user-attachments/assets/97197505-95c4-43f1-a8f0-2775b5ed982e)
